@@ -10,3 +10,4 @@ Machine learning based model which helps to detect sports brands in images. YOLO
 Deployed using Flask
 
 
+![image](https://user-images.githubusercontent.com/71927343/183719522-3d8d462a-3948-4b7d-be2b-53f47dac1501.jpg)
