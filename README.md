@@ -11,3 +11,5 @@ Deployed using Flask
 
 
 ![image](https://user-images.githubusercontent.com/71927343/183719522-3d8d462a-3948-4b7d-be2b-53f47dac1501.jpg)
+
+![ex](https://user-images.githubusercontent.com/71927343/183719919-3be81d89-4223-4570-bc6f-957a5352e85d.jpg)
